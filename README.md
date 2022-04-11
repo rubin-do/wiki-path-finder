@@ -14,3 +14,6 @@ docker-compose up
 ```
 python3.8 client/client.py
 ```
+
+#### Example
+![Example](./demo.png)
